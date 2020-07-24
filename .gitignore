@@ -1,0 +1,5 @@
+*.session
+config.py
+downloader-env/
+.vscode/
+__pycache__/
