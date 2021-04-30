@@ -15,7 +15,7 @@ pyasn1==0.4.8
 pycparser==2.20
 pylint==2.5.3
 regex==2020.7.14
-rsa==4.6
+rsa==4.7
 six==1.15.0
 Telethon==1.15.0
 toml==0.10.1
